@@ -23,7 +23,7 @@ expr:
 void main() {
 	printf("\nSimple Lex Yacc Calculater\n");
 	printf("---------------------------------\n");
-	printf("PLUS -> addition, MINUS -> substraction,\nMOD -> modulo, MULTIPLY -> multiplication\n\n");
+	printf("Ex. 2+3, 4-2, 4*5, 6%%2\n\n");
 	printf("Enter Expression:\n");
 	yyparse();
 
