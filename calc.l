@@ -10,11 +10,10 @@ void yyerror(char *);
             }
 
 [-+*%\n]    return *yytext;
-PLUS        return '+';
-MINUS       return '-';
-MULTIPLY    return '*';
-TIMES       return '*';
-MOD      return '%';
+'+'        	return '+';
+'-'       	return '-';
+'*'       	return '*';
+'%'      	return '%';
 [ \t] ;    
 .           yyerror("invalid character");
 %%
