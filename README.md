@@ -14,5 +14,5 @@ and finally execute the binary file,
 cmd> calc.exe
 
 #Output
-
+![Output](https://raw.githubusercontent.com/kartikchaudhari/Lex-Yacc-Calc/master/output.png)
 
