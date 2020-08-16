@@ -15,4 +15,4 @@ cmd> calc.exe
 
 #Output
 
-![Output](https://raw.githubusercontent.com/kartikchaudhari/Lex-Yacc-Calc/master/output.png)
+
